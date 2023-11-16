@@ -23,11 +23,7 @@ conda activate $env_name
 which jupyter
 ```
 
-Should output:
-
-```
-<path/to>/miniconda/base/envs/harmonization_v2_neil_livedemo/bin/jupyter
-```
+Should output something like this: `<path/to>/miniconda/base/envs/harmonization_v2_neil_livedemo/bin/jupyter`
 
 ## 3. Add environment to jupyter kernel
 

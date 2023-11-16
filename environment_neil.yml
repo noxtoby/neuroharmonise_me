@@ -1,4 +1,4 @@
-name: harmonization_v2_neil
+name: harmonization_v2_neil_livedemo
 channels:
   - defaults
 dependencies:
@@ -26,6 +26,7 @@ dependencies:
   - wheel=0.38.4
   - xz=5.2.10
   - zlib=1.2.13
+  - ipykernel
   - pip:
     - charset-normalizer==3.1.0
     - idna==3.4
